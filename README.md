@@ -152,5 +152,9 @@ Future improvements:
 3.	.Results of both the models can be combined to get hybrid model recommender system
 
 
-
+Notebooks:
+movie_recom_content: Movie recommendation system : Content based
+pred_user_rating ; recommend movie by predicting movie rating 
+web_scraping: web scraping for movies data year 2018-2022
+Sentiment_Analysis : sentiment analysis on movies reviews
 
