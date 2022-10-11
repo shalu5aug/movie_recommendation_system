@@ -52,8 +52,10 @@ e.	Now each row contains ‘tag’ column which represents ‘cast’, ‘crew�
  
 5.	Model building:
 Idea behind converting text into vectors:
-All the words into ‘tag’ column of each movie are converted into a matrix called bag of words. For ex below is the BOW of text “A dog in heat needs more than shade”
-<img width="218" alt="image" src="https://user-images.githubusercontent.com/83147951/195166560-06b82974-a977-4ff8-a8d2-03d0b821fd88.png">
+All the words into ‘tag’ column of each movie are converted into a matrix called bag of words.Below is an example of BOW:
+
+<img width="318" alt="image" src="https://user-images.githubusercontent.com/83147951/195184094-bf7f0556-780d-4b54-b933-c286bffb23b9.png">
+
  
 a.	This can be done using class sklearn.feature_extraction.text.CountVectorizer which would be in the shape of (rows=no. of rows in movie dataset , columns= total no. of unique words In ‘tag’ text which can be restricted to max_features)
 
