@@ -1,6 +1,5 @@
 
-
-![image](https://user-images.githubusercontent.com/83147951/195165931-dfeaf054-c97a-4364-858e-018448bdb1da.png)
+![image](https://user-images.githubusercontent.com/83147951/195207442-22ead049-e171-4a58-81b3-ad033d9162df.png)
 
 1.	Content Based Movie system recommends movie on the basis of the content like the content description/synopsis, cast, crew, director and genres of the     movie.
  <img width="158" alt="image" src="https://user-images.githubusercontent.com/83147951/195168216-305e1275-20c4-4535-94c4-06462649a030.png">
@@ -165,5 +164,7 @@ pred_user_rating : Collaborative based system (second approach as mentioned abov
 web_scraping: web scraping for movies data year 2018-2022
 
 Sentiment_Analysis : sentiment analysis on movies reviews
+
+
 
 
