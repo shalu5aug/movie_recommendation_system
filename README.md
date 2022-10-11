@@ -156,7 +156,9 @@ Notebooks:
 
 movie_recom_content: Movie recommendation system : Content based
 
-pred_user_rating ; recommend movie by predicting movie rating 
+movie_recom_collab_mh: Collaborative based system (first approach as mentioned above)
+
+pred_user_rating : Collaborative based system (second approach as mentioned above)
 
 web_scraping: web scraping for movies data year 2018-2022
 
