@@ -9,7 +9,7 @@
 ### Users: 
 It helps users to get personalized recommendations, take better decision in their online transactions
 
-### Businesses providers
+### Service providers
 it helps businesses in increasing their sales , retain the customers, redefine user’s web browsing experience and enhance their shopping experience by making suggestions for items that users might like .
 
 ### Types of recommendation system :
