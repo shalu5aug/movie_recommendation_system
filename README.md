@@ -36,7 +36,7 @@ Steps followed:
  
 Here data is available only up to year 2017
 
-2.	Web scraping is done to get the list of movies from 2018 – 2022 from Wikipedia using url : 'https://en.wikipedia.org/wiki/List_of_American_films_of_{i} (where i is the value of year between 2018-2022 ) and ‘tmdbv3api’  library to  get genres of each movie . For this we need API key from TMDB website .
+2.	Data of list of movies from 2018 – 2022 is Web scraped from Wikipedia using url : 'https://en.wikipedia.org/wiki/List_of_American_films_of_{i} (where i is the value of year between 2018-2022 ) and ‘tmdbv3api’  library to  get genres of each movie . For this we need API key from TMDB website .
 
 Model Architecture:
 
